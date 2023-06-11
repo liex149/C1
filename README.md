@@ -1,1 +1,1 @@
-This challenge was to refactor code to push it onto git hub
+This challenge was to refactor code to push it onto git hub. Challenge was to fins semantic elements, follow logical structure, view images, view title, and having a descriptive title. 
