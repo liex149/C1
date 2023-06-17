@@ -1,11 +1,7 @@
-# Challenge 
-Refactor code and push it onto github
-
-
-# <Your-Project-Title>
+# Horiseon Webpage
 
 ## Description
-The motivation was to find semantic elements, follow logical structire, view images, view title, and have a creative title using CSS and HTML. The problem that it solves is to create a CSS that is more organized and less busy for users when searcing for code. 
+ The Horiseon webpage is designed to help make information about the company accessible online for users. This webpage contains information on online management, help optimize how the internet find right users for business, and social media marketing.
 
 
 
@@ -14,8 +10,10 @@ The motivation was to find semantic elements, follow logical structire, view ima
 N/A
 
 ## Usage
-The purpose of this challenge was to create a HTML and CSS that was fuctional when a user clicks on each topic. 
+A the user navigates throught the webpage, they will be able to easily click on the links that corresponds to each section. For example when one cliks on the "Search Engine Optimization" they will automatically be navigated to the information regarding this. 
 
+![Horiseon top](<screenshot top.PNG>)
+![Horiseon bottom](<screenshot bottom-1.PNG>)
 
 ## Credits
 
